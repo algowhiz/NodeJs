@@ -1,0 +1,9 @@
+// rest api 
+
+1 . server client architecture
+2 . 2 entity server and client (client will request and server will send response)
+3 . format of response sending to client can be send in txt , img , html code , Json .
+4 . faster way to send data as follow
+    - html (ssr)
+    - Json 
+5 . always respect all http methods ( get , post , patch , put , del )
